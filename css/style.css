@@ -1,0 +1,11 @@
+p.error{
+text-align: center;
+color: rgb(23, 102, 248);
+font-weight: bolder;
+}
+h2.centered{
+    text-align:center;
+}
+div.submit{
+    text-align: center;
+}
